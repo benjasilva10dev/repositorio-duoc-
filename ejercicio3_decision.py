@@ -1,3 +1,5 @@
+import os 
+os.system("cls")
 try:
     nota1 = float(input("escriba su primera nota, como decimal"))
     nota2 = float(input("escriba su segunda nota, como decimal"))
